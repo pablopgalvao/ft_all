@@ -1,0 +1,24 @@
+[submodule "cc00"]
+	path = cc00
+	url = ./cc00
+[submodule "cc02"]
+	path = cc02
+	url = ./cc02
+[submodule "cc03"]
+	path = cc03
+	url = ./cc03
+[submodule "rush00"]
+	path = rush00
+	url = ./rush00/
+[submodule "rush02"]
+	path = rush02
+	url = ./rush02
+[submodule "shell01"]
+	path = shell01
+	url = ./shell01
+[submodule "shell00"]
+	path = shell00
+	url = ./shell00
+[submodule "cc01"]
+	path = cc01
+	url = ./cc01
